@@ -35,5 +35,4 @@ cc.Class({
         cc.audioEngine.playEffect(this.flyAudio, false); // 参数：播放的音乐；   是否循环播放
     }
 
-
 });
